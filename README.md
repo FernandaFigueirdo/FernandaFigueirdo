@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FernandaFigueirdo
-- 👀 I’m interested in front-end
+- 👀 I’m interested in front-end e back-end
 - 🌱 I’m currently learning about html,css e javascript
 - 💞️ I’m looking to collaborate on Twist project's
 - 📫 How to reach me ...
